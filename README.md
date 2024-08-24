@@ -1,4 +1,4 @@
-# Aboute Me
+# About Me
 	
 - 👋 Hi, I’m @SkipOs
 - 👀 I’m interested in Pentesting, Pixelart and Modding
