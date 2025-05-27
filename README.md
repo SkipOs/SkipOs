@@ -3,7 +3,7 @@
 </p>
 <p>
 Yup I like Pentesting, Pixelart, Translation and Modding<br>
-Oh! You can call me on discord (Skip0s). See also <a href="https://skip0s.neocities.org/">my website</a>
+Oh! You can call me on discord (Skip0s). 
 </p>
 <h3>Used those in the past</h3>
 <p>
