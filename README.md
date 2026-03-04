@@ -3,7 +3,6 @@
 </p>
 <p>
 	Yup I like Pentesting, Pixelart, Translation and Modding<br>
-	Oh! You can call me on discord (Skip0s). 
 </p>
 <h2>Try Hack Me Profile</h2>
 <img src="https://tryhackme-badges.s3.amazonaws.com/skip0s.png" alt="Skip0s Badge" />
