@@ -6,7 +6,7 @@
 	Oh! You can call me on discord (Skip0s). 
 </p>
 <h2>Try Hack Me Profile</h2>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3245123" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/skip0s.png" alt="Skip0s Badge" />
 <h2>Used those in the past</h2>
 <h3>IDE's</h3>
 <p>
