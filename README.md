@@ -5,6 +5,8 @@
 	Yup I like Pentesting, Pixelart, Translation and Modding<br>
 	Oh! You can call me on discord (Skip0s). 
 </p>
+<h2>Try Hack Me Profile</h2>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3245123" style='border:none;'></iframe>
 <h2>Used those in the past</h2>
 <h3>IDE's</h3>
 <p>
