@@ -4,8 +4,7 @@
 <p>
 	Yup I like Pentesting, Pixelart, Translation and Modding<br>
 </p>
-<h2>Try Hack Me Profile</h2>
-<img src="https://tryhackme-badges.s3.amazonaws.com/skip0s.png" alt="Skip0s Badge" />
+
 <h2>Used those in the past</h2>
 <h3>IDE's</h3>
 <p>
